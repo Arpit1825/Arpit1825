@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arpit Verma
-**An Aspiring Full Stack Developer || from India**
+**An Aspiring Full Stack Developer || MERN Stack Developer  || from India**
 
 Email Me 👉 ✉️ **av6821246@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
