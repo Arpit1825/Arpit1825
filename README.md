@@ -3,12 +3,13 @@
 
 Email Me 👉 ✉️ **av6821246@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Full Stack Projects
-- 🌱 **I’m currently learning:** MERN STACK
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** 2k24.csaiml1a.2413757@gmail.com
-- 😄 **Pronouns:** Arpit Bhai
-- ⚡ **Fun fact:** Exploring  Tech
+- 🔭 **Currently Working On:** Full Stack Applications & AI/ML Projects
+- 🌱 **Currently Learning:** Machine Learning, Computer Vision & Advanced MERN Development
+- 👨‍💻 **Current Focus:** Building Production-Ready Full Stack Applications and AI Solutions
+- 💬 **Ask Me About:** MERN Stack, REST APIs, React, Node.js, Machine Learning & DSA
+- 📫 **Reach Me At:** 2k24.csaiml1a.2413757@gmail.com
+- 🎯 **Current Goal:** Becoming an Industry-Ready Full Stack & AI Engineer
+- ⚡ **Fun Fact:** I enjoy turning real-world problems into software and AI-powered solutions.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-verma-687b3b332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k24.csaiml.1a.2413757@gmail.com) 
